@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Meeshka",
+        "phone_number": "0719921765",
+        "email": "Meeshka.m@gmail.com"
+    },
+    {
+        "name": "Skye",
+        "phone_number": "045673456",
+        "email": "skyinn@gmail.com"
+    },
+    {
+        "name": "Mike",
+        "phone_number": "0987654",
+        "email": "mike@gmail.com"
+    },
+    {
+        "name": "Mike",
+        "phone_number": "09876543",
+        "email": "mike@gmail.com"
+    },
+    {
+        "name": "Mike",
+        "phone_number": "0987654",
+        "email": "mike@gmail.com"
+    },
+    {
+        "name": "jo",
+        "phone_number": "0987654",
+        "email": "jo@gmail.com"
+    },
+    {
+        "name": "Jasmine",
+        "phone_number": "123",
+        "email": "Jassy@gmail.com"
+    },
+    {
+        "name": "Testing",
+        "phone_number": "098",
+        "email": "Testing@gmail.com"
+    }
+]
